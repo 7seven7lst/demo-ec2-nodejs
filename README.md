@@ -1,0 +1,1 @@
+This is a demo app using nodejs on AWS EC2
